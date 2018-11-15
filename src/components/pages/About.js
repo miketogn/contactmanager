@@ -19,6 +19,10 @@ export default () => {
         Any user that is added locally will not be editable, because it is not
         part of the data being returned by the api.
       </p>
+    
+    <p>
+      Node.js is required to run this app locally.
+    </p>
 
       <p>
         Run npm install to install all requirements and npm start to start the
