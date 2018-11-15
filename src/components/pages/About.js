@@ -9,7 +9,7 @@ export default () => {
       <p className="lead">
         Simple interface to demonstrate CRUD functionality.
       </p>
-      <p>Uses the contect api to manage state.</p>
+      <p>Uses the context api to manage state.</p>
       <p className="text">
         Uses the https://jsonplaceholder.typicode.com API for data.
       </p>
